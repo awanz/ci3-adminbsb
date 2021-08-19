@@ -27,3 +27,5 @@ composer.lock
 /tests/results/
 
 node_modules
+
+/assets/adminbsb
